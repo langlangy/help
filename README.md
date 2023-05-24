@@ -1,87 +1,27 @@
-# Headline
-
-> An awesome project.
-
-这既是一个培训产品，我们也更希望能把它做成一个完整的项目 💪
-
-```mermaid
-graph TD; A-->B; A-->C; B-->D; C-->D;
-```
-
-# 关于项
-我们希望借助Github的影响力，通过笔记、视频和其它项目资源，分享一些学习、工作收获，以帮助更多的爱好互联网IT，爱好编程的朋友走近和踏入这个行业。
 
 
 
-你的Follow和Star是对我们最大的鼓励。
 
-> 我们的主张
+# 价值观
 
-不主张单纯为了找工作而学习 😳
+只有诚信才能赢得客户的信任和尊重。浪浪云也是以“诚信第一”作为核心价值观，诚信对待每一个用户，只有产品价格合适，产品好用，产品售后好才能真正留的住用户。
 
-![](E:\doc\golang\docs\01.png)
+#  解决大厂的痛点
 
-# 关于内容
-大部分的学习内容都非常基础，适合体验和入门。如希望在工作岗位和生产项目中使用，还需进行更深入和系统的学习。
-
-> 课程制作思路：适合敏捷学习
-
-以实用为核心，立足于生活和工作需要，不断迭代，循序渐进。
-
-- 把复杂的知识体系讲解简单、易于理解和归纳，而在案例和项目中继续做垂直拓展和思考。
-- 缩短学习周期，对知识做更细的切割
-- 共同成长
-
-# Welcome
-所有的项目内容都是利用业余时间制作，如有勘误或不当之处，欢迎提交PR。
-同时我们还有如下产品线暂未开发，期待你的加入：
-
-- BigData 大数据
-- Python + 人工智能
-
-# 感恩
-感恩平台、公司和家庭的支持！我们会持续产出，回馈行业和社会 🙏
-
-# 联系我们
+- 服务器价格昂贵，除非新用户或者在活动的节日才能买到优惠的产品
+- 续费昂贵，买服务器一般都是为了稳定的服务，导致续费天价，再去寻找优惠的服务器从而浪费不必要的精力，就好比租房子，一个月搬一次家谁受的了这个啊
 
 
--   > [!NOTE]
-    > An alert of type 'note' using global style 'callout'.
-    
--   Sample alert using type `TIP`
-    
-    > [!TIP]
-    > An alert of type 'tip' using global style 'callout'.
-    
--   Sample alert using type `WARNING`
-    
-    > [!WARNING]
-    > An alert of type 'warning' using global style 'callout'.
-    
--   Sample alert using type `ATTENTION`
-    
-    > [!ATTENTION]
-    > An alert of type 'attention' using global style 'callout'.
-    
+# 解决其他小厂商带来的问题
+- 超售问题 
+- 价格忽高忽低
+- 价格超低，但是什么也干不了
 
-?> dfvdfvfb
+- 超售是普遍性的问题，解决方案，通过搭建物理服务器监控系统可以通过网页实时查看物理服务器负载情况，对用户透明化，让用户来选择哪台机器进行购买，让用户使用更放心
 
-!> hhah
+# 子平台
 
-
-!> 其中 `basePath` 相当于 webpack 的 `publicPath` ，为文档所在的路径，可以填你的 docsify 文档网站。我们可以使用本地或者远程文件。
-
-> [!WARNING]
-> An alert of type 'warning' using global style 'callout'.
-
-
-> [!TIP]
-> An alert of type 'tip' using global style 'callout'.
-
-
-> [!Note]
-> An alert of type 'tip' using global style 'callout'.
-
-> [!Attention]
-> An alert of type 'tip' using global style 'callout'.
+1. 帮助文档  ：主要提供产品的使用说明
+2. 论坛系统  ：用户可以留言遇到的问题或者为该平台提出宝贵意见以及产品需求
+3. 博客系统  ：发布新的技术文档，为用户提供手把手搭建教学
 
