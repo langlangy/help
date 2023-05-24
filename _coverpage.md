@@ -2,9 +2,9 @@
 
 
 
-> 基于 Obsidian+Docsify+Github Pages 的个人知识库
+> 浪浪云产品帮助文档
 
-[![github](https://img.shields.io/badge/github-babeltower-brightgreen.svg)](https://github.com/githubgeekrabbit) 
+[![github](https://img.shields.io/badge/github-babeltower-brightgreen.svg)](https://github.com/langlangy) 
 
 
 <span id="busuanzi_container_site_pv" style='display:none'>
@@ -18,7 +18,7 @@
 
 
 
-[GitHub](https://github.com/githubgeekrabbit)
-[Blog](https://qu1u1.cn)
-[开始学习](/README.md)
+[GitHub](https://github.com/langlangy)
+[浪浪云](https://langlangy.com)
+[帮助文档](/README.md)
 
