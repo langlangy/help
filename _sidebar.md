@@ -1,6 +1,8 @@
 <!-- docs/_sidebar.md -->
 - 介绍
 - [](docsify/learn/README.md "Think About AI")
+- 实名认证
+  -  [实名认证](实名认证/实名认证.md)
 
 - Nat服务器
   - [购买nat服务器](计算机编程/go/)
