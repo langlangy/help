@@ -8,7 +8,7 @@ NAT英文全称是"Network Address Translation"，中文意思是 网络地址�
 
 # NAT服务器的工作原理拓扑图
 
-![](image/1.png)
+![](image/6.png)
 > 下面以搭建宝塔为例,采用centos7.6 1h1g5m服务器搭建
 
 # 安装宝塔完成后
